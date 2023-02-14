@@ -1,0 +1,5 @@
+{
+    // "mongoURI": "mongodb+srv://wisesa:G4tAfx6BZd1iU97q@resto.5jkzy.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://wisesa:G4tAfx6BZd1iU97q@resto.5jkzy.mongodb.net/devconnector",
+    "jwtSecret": "mysecrettoken"
+}
